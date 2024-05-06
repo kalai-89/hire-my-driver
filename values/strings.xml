@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">capstone</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+
+    <string-array name="user_kind">
+        <item>Driver</item>
+        <item>Owner</item>
+    </string-array>
+
+    <string-array name="license">
+        <item>MC 50cc</item>
+        <item>LMV-NT</item>
+        <item>FVG</item>
+        <item>MC EX50CC</item>
+        <item>MCWG</item>
+        <item>HGMV</item>
+        <item>HPMV</item>
+        <item>MGV</item>
+        <item>HMV</item>
+        <item>Trailer</item>
+        <item>LMV</item>
+    </string-array>
+
+    <string-array name="State">
+        <item> Maharashtra </item>
+        <item> Gujarat </item>
+    </string-array>
+</resources>
